@@ -1,4 +1,4 @@
-# Ddos
+8# Ddos
 ### Installing
 
 * `pkg update`
@@ -8,5 +8,5 @@
 * `apt install python2`
 * `apt install python3`
 * `git clone https://github.com/YasiruAmarasinghe/Ddos`
-* `cd DDos-Gearheadarena`
+* `cd Ddos`
 * `python2 main.py`
